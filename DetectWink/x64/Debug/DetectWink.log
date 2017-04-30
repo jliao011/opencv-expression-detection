@@ -1,0 +1,4 @@
+﻿  DetectWink.cpp
+\\mac\home\onedrive\utd\2017spring\cv\project2\proj2\detectwink\detectwink.cpp(102): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  DetectWink.vcxproj -> \\Mac\Home\OneDrive\UTD\2017SPRING\CV\project2\proj2\DetectWink\x64\Debug\DetectWink.exe
+  DetectWink.vcxproj -> \\Mac\Home\OneDrive\UTD\2017SPRING\CV\project2\proj2\DetectWink\x64\Debug\DetectWink.pdb (Partial PDB)

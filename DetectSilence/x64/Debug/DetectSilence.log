@@ -1,0 +1,4 @@
+﻿  DetectSilence.cpp
+\\mac\home\onedrive\utd\2017spring\cv\project2\proj2\detectsilence\detectsilence.cpp(93): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  DetectSilence.vcxproj -> \\Mac\Home\OneDrive\UTD\2017SPRING\CV\project2\proj2\DetectSilence\x64\Debug\DetectSilence.exe
+  DetectSilence.vcxproj -> \\Mac\Home\OneDrive\UTD\2017SPRING\CV\project2\proj2\DetectSilence\x64\Debug\DetectSilence.pdb (Partial PDB)
